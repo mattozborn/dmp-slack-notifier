@@ -40,7 +40,3 @@ To run the program:
 ```bash
 java SlackNotify
 ```
-
-## Disclaimer
-
-This program is intended for environments where installing unapproved software is not feasible. Ensure that usage complies with company policies.
